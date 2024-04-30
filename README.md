@@ -1,1 +1,1 @@
-# receita-3.0
+# receitas-2.0
